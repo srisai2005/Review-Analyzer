@@ -1,0 +1,12 @@
+# Local env files — never commit real keys
+.env
+.env.local
+.vercel
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS junk
+.DS_Store
